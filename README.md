@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ##
 
-### STUDING:
+### STUDYING:
 <div style="display: inline_block"><br/>
 <img src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src ="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
