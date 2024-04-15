@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 ##
 
 
-#### Apaixonado por tecnologia!,vejo a programacao como um valvula de escape para os meus dias!!
-#### Atualmente aprendendo linguagens focadas em backend, e banco de dados, css e html.
+#### Apaixonado por tecnologia!,vejo a programação como a profissão para o meu futuro.!!
 
 ##
 
