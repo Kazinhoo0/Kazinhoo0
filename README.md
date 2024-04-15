@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Kazinhoo0/Kazinhoo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,16 +22,39 @@ Here are some ideas to get you started:
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kazinh_o/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauã-lopes-monteiro-330048214/)
 
-![kazinho GitHub stats](https://github-readme-stats.vercel.app/api?username=kazinho&theme=algolia&show_icons=great-True)
+![Kazinhoo0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kazinhoo0&show_icons=true&theme=dark)
 
-## Tecnologias que eu uso no meu dia
+## MAIN SKILLS:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img align="center" alt="C++" src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img align="center" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit"/>
+
+
+            
+          
 </div><br>
+
+
+##
+
 
 #### Apaixonado por tecnologia!,vejo a programacao como um valvula de escape para os meus dias!!
 #### Atualmente aprendendo linguagens focadas em backend, e banco de dados, css e html.
+
+##
+
+### STUDING:
+<div style="display: inline_block"><br/>
+<img src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div><br>
+
+##
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kazinhoo0&bg_color=2f3b74&color=ffffff&line=fafafa&point=402b2b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
