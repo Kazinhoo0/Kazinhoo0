@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img align="center" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit"/>
 <img align="center" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img align="center" src = "https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+
 
 
             
@@ -41,15 +42,15 @@ Here are some ideas to get you started:
 ##
 
 
-#### Apaixonado por tecnologia!,vejo a programação como a profissão para o meu futuro.!!
+#### Apaixonado por tecnologia!,vejo a programação como a profissão para o meu futuro.
 
 ##
 
 ### STUDYING:
 <div style="display: inline_block"><br/>
-<img src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src ="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img align="center" src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img align="center" src ="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img align ="center" src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </div><br>
 
 ##
