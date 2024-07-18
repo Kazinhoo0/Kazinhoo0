@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 
 ### Olá! Eu sou o Kauã Lopes ✋
 
+<h2>About me</h2>
+<p>Meu nome Kauã, tenho 20 anos e Estou cursando faculdade em (Analise e desenvolvimento de sistemas).
+Com conhecimento em Python, JavaScript, MySql, e atualmente estudo React, e node JS.
+Procuro uma oportunidade de estágio como desenvolvedor Full-Stack, para colocar os conhecimento que tenho em prática, e aprender com o ambiente de trabalho é o meu objetivo, estar com profissionais qualificados que agreguem conhecimento será crucial para o meu futuro profissional.</p>
+
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kazinh_o/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauã-lopes-monteiro-330048214/)
