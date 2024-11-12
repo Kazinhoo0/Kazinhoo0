@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 ### Olá! Eu sou o Kauã Lopes ✋
 
 <h2>About me</h2>
-<p>Meu nome Kauã, tenho 20 anos e Estou cursando faculdade em (Analise e desenvolvimento de sistemas).
-Com conhecimento em Python, JavaScript, MySql, e atualmente estudo React, e node JS.
+<p>Meu nome Kauã, tenho 21 anos e Estou cursando faculdade em (Analise e desenvolvimento de sistemas).
+Busco uma oportunidade de emprego como desenvolvedor Web, ou Full-stack
+Com conhecimentos nas tecnologias, HTML5,CSS3,JavaScript,MySql,React, React Router,React Hooks, e node JS(EXPRESS).
 Procuro uma oportunidade de estágio como desenvolvedor Full-Stack, para colocar os conhecimento que tenho em prática, e aprender com o ambiente de trabalho é o meu objetivo, estar com profissionais qualificados que agreguem conhecimento será crucial para o meu futuro profissional.</p>
 
 
@@ -49,9 +50,6 @@ Procuro uma oportunidade de estágio como desenvolvedor Full-Stack, para colocar
 
 
 ##
-
-
-#### Apaixonado por tecnologia!,vejo a programação como a profissão para o meu futuro.
 
 ##
 
