@@ -41,6 +41,7 @@ Procuro uma oportunidade de estágio como desenvolvedor Full-Stack, para colocar
 <img align="center" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit"/>
 <img align="center" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align ="center" src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img aling ="center" src = "https://img.shields.io/badge/-git-red?style=for-the-badge&logo=Git&logoColor=white"/>
 
 
 
