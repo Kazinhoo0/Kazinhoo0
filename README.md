@@ -45,9 +45,10 @@ Procuro uma oportunidade de estágio como desenvolvedor Full-Stack, para colocar
 
 
 
-            
-          
+                
 </div><br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazinhoo0&layout=compact)
 
 
 ##
